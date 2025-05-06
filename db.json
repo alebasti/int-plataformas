@@ -1,0 +1,57 @@
+{
+    "productos": [
+      {
+        "Código del producto": "MAN-0001",
+        "Marca": "Stanley",
+        "Código": "STA-12345",
+        "Nombre": "Martillo Stanley",
+        "Precio": [
+          {
+            "Fecha": "2025-05-06T00:00:00.000Z",
+            "Valor": 12990.00
+          }
+        ],
+        "Categoría": "Herramientas Manuales"
+      },
+      {
+        "Código del producto": "ELE-0002",
+        "Marca": "Bosch",
+        "Código": "BOS-67890",
+        "Nombre": "Taladro Percutor Bosch",
+        "Precio": [
+          {
+            "Fecha": "2025-05-06T00:00:00.000Z",
+            "Valor": 89090.99
+          }
+        ],
+        "Categoría": "Taladros"
+      },
+      {
+        "Código del producto": "MAT-0003",
+        "Marca": "Cemex",
+        "Código": "CEM-11111",
+        "Nombre": "Bolsa de Cemento 50kg",
+        "Precio": [
+          {
+            "Fecha": "2025-05-06T00:00:00.000Z",
+            "Valor": 5990.50
+          }
+        ],
+        "Categoría": "Cemento"
+      },
+      {
+        "Código del producto": "SEG-0004",
+        "Marca": "3M",
+        "Código": "MMM-33333",
+        "Nombre": "Lentes de Seguridad 3M",
+        "Precio": [
+          {
+            "Fecha": "2025-05-06T00:00:00.000Z",
+            "Valor": 15990.00
+          }
+        ],
+        "Categoría": "Lentes de Seguridad"
+      }
+    ]
+  }
+  
