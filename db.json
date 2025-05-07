@@ -154,18 +154,5 @@
       "categoria": "equipos_seguridad",
       "stock": 35
     },
-
-    {
-      "categoria": "tornillos_anclajes",
-      "productos": []
-    },
-    {
-      "categoria": "fijaciones_adhesivos",
-      "productos": []
-    },
-    {
-      "categoria": "equipos_medicion",
-      "productos": []
-    }
   ]
 }
