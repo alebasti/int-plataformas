@@ -11,7 +11,8 @@
           "valor": 12990
         }
       ],
-      "categoria": "martillos"
+      "categoria": "martillos",
+      "stock": 150
     },
     {
       "codigo_producto": "ELE-0002",
@@ -24,7 +25,8 @@
           "valor": 89090
         }
       ],
-      "categoria": "taladros"
+      "categoria": "taladros",
+      "stock": 45
     },
     {
       "codigo_producto": "MAT-0003",
@@ -37,7 +39,8 @@
           "valor": 5990
         }
       ],
-      "categoria": "cemento"
+      "categoria": "cemento",
+      "stock": 300
     },
     {
       "codigo_producto": "SEG-0004",
@@ -50,7 +53,8 @@
           "valor": 15990
         }
       ],
-      "categoria": "lentes_de_seguridad"
+      "categoria": "lentes_de_seguridad",
+      "stock": 75
     },
     {
       "codigo_producto": "MAN-0005",
@@ -63,7 +67,8 @@
           "valor": 7990
         }
       ],
-      "categoria": "destornilladores"
+      "categoria": "destornilladores",
+      "stock": 200
     },
     {
       "codigo_producto": "MAN-0006",
@@ -76,7 +81,8 @@
           "valor": 14990
         }
       ],
-      "categoria": "llaves"
+      "categoria": "llaves",
+      "stock": 120
     },
     {
       "codigo_producto": "ELE-0007",
@@ -89,7 +95,8 @@
           "valor": 120999
         }
       ],
-      "categoria": "sierras"
+      "categoria": "sierras",
+      "stock": 30
     },
     {
       "codigo_producto": "ELE-0008",
@@ -102,7 +109,8 @@
           "valor": 45990
         }
       ],
-      "categoria": "lijadoras"
+      "categoria": "lijadoras",
+      "stock": 60
     },
     {
       "codigo_producto": "MAT-0009",
@@ -115,7 +123,8 @@
           "valor": 2990
         }
       ],
-      "categoria": "arena"
+      "categoria": "arena",
+      "stock": 450
     },
     {
       "codigo_producto": "MAT-0010",
@@ -128,7 +137,8 @@
           "valor": 8990
         }
       ],
-      "categoria": "ladrillos"
+      "categoria": "ladrillos",
+      "stock": 600
     },
     {
       "codigo_producto": "ACA-0011",
@@ -141,7 +151,8 @@
           "valor": 23990
         }
       ],
-      "categoria": "pinturas"
+      "categoria": "pinturas",
+      "stock": 85
     },
     {
       "codigo_producto": "SEG-0012",
@@ -154,7 +165,8 @@
           "valor": 12990
         }
       ],
-      "categoria": "cascos"
+      "categoria": "cascos",
+      "stock": 90
     },
     {
       "codigo_producto": "TOR-0013",
@@ -167,7 +179,8 @@
           "valor": 5990
         }
       ],
-      "categoria": "tornillos_y_anclajes"
+      "categoria": "tornillos_y_anclajes",
+      "stock": 1000
     },
     {
       "codigo_producto": "MED-0014",
@@ -180,7 +193,8 @@
           "valor": 8990
         }
       ],
-      "categoria": "equipos_de_medicion"
+      "categoria": "equipos_de_medicion",
+      "stock": 180
     }
   ]
 }
