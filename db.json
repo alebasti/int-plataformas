@@ -1,7 +1,7 @@
 {
     "productos": [
       {
-        "Código del producto": "MAN-0001",
+        "codigo_producto": "MAN-0001",
         "Marca": "Stanley",
         "Código": "STA-12345",
         "Nombre": "Martillo Stanley",
@@ -14,7 +14,7 @@
         "Categoría": "Herramientas Manuales"
       },
       {
-        "Código del producto": "ELE-0002",
+        "codigo_producto": "ELE-0002",
         "Marca": "Bosch",
         "Código": "BOS-67890",
         "Nombre": "Taladro Percutor Bosch",
@@ -27,7 +27,7 @@
         "Categoría": "Taladros"
       },
       {
-        "Código del producto": "MAT-0003",
+        "codigo_producto": "MAT-0003",
         "Marca": "Cemex",
         "Código": "CEM-11111",
         "Nombre": "Bolsa de Cemento 50kg",
@@ -40,7 +40,7 @@
         "Categoría": "Cemento"
       },
       {
-        "Código del producto": "SEG-0004",
+        "codigo_producto": "SEG-0004",
         "Marca": "3M",
         "Código": "MMM-33333",
         "Nombre": "Lentes de Seguridad 3M",
