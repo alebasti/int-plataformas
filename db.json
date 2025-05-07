@@ -8,7 +8,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 12990.00
+          "valor": 12990
         }
       ],
       "categoria": "martillos"
@@ -21,7 +21,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 89090.99
+          "valor": 89090
         }
       ],
       "categoria": "taladros"
@@ -34,7 +34,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 5990.50
+          "valor": 5990
         }
       ],
       "categoria": "cemento"
@@ -47,7 +47,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 15990.00
+          "valor": 15990
         }
       ],
       "categoria": "lentes_de_seguridad"
@@ -60,7 +60,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 7990.00
+          "valor": 7990
         }
       ],
       "categoria": "destornilladores"
@@ -73,7 +73,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 14990.00
+          "valor": 14990
         }
       ],
       "categoria": "llaves"
@@ -86,7 +86,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 120999.00
+          "valor": 120999
         }
       ],
       "categoria": "sierras"
@@ -99,7 +99,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 45990.00
+          "valor": 45990
         }
       ],
       "categoria": "lijadoras"
@@ -112,7 +112,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 2990.00
+          "valor": 2990
         }
       ],
       "categoria": "arena"
@@ -125,7 +125,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 8990.00
+          "valor": 8990
         }
       ],
       "categoria": "ladrillos"
@@ -138,7 +138,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 23990.00
+          "valor": 23990
         }
       ],
       "categoria": "pinturas"
@@ -151,7 +151,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 12990.00
+          "valor": 12990
         }
       ],
       "categoria": "cascos"
@@ -164,7 +164,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 5990.00
+          "valor": 5990
         }
       ],
       "categoria": "tornillos_y_anclajes"
@@ -177,7 +177,7 @@
       "precio": [
         {
           "fecha": "2025-05-06T00:00:00.000Z",
-          "valor": 8990.00
+          "valor": 8990
         }
       ],
       "categoria": "equipos_de_medicion"
