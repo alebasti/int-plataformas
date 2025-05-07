@@ -1,57 +1,186 @@
 {
-    "productos": [
-      {
-        "codigo_producto": "MAN-0001",
-        "Marca": "Stanley",
-        "Código": "STA-12345",
-        "Nombre": "Martillo Stanley",
-        "Precio": [
-          {
-            "Fecha": "2025-05-06T00:00:00.000Z",
-            "Valor": 12990.00
-          }
-        ],
-        "Categoría": "Herramientas Manuales"
-      },
-      {
-        "codigo_producto": "ELE-0002",
-        "Marca": "Bosch",
-        "Código": "BOS-67890",
-        "Nombre": "Taladro Percutor Bosch",
-        "Precio": [
-          {
-            "Fecha": "2025-05-06T00:00:00.000Z",
-            "Valor": 89090.99
-          }
-        ],
-        "Categoría": "Taladros"
-      },
-      {
-        "codigo_producto": "MAT-0003",
-        "Marca": "Cemex",
-        "Código": "CEM-11111",
-        "Nombre": "Bolsa de Cemento 50kg",
-        "Precio": [
-          {
-            "Fecha": "2025-05-06T00:00:00.000Z",
-            "Valor": 5990.50
-          }
-        ],
-        "Categoría": "Cemento"
-      },
-      {
-        "codigo_producto": "SEG-0004",
-        "Marca": "3M",
-        "Código": "MMM-33333",
-        "Nombre": "Lentes de Seguridad 3M",
-        "Precio": [
-          {
-            "Fecha": "2025-05-06T00:00:00.000Z",
-            "Valor": 15990.00
-          }
-        ],
-        "Categoría": "Lentes de Seguridad"
-      }
-    ]
-  }
-  
+  "productos": [
+    {
+      "codigo_producto": "MAN-0001",
+      "marca": "Stanley",
+      "codigo": "STA-12345",
+      "nombre": "Martillo Stanley",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 12990.00
+        }
+      ],
+      "categoria": "martillos"
+    },
+    {
+      "codigo_producto": "ELE-0002",
+      "marca": "Bosch",
+      "codigo": "BOS-67890",
+      "nombre": "Taladro Percutor Bosch",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 89090.99
+        }
+      ],
+      "categoria": "taladros"
+    },
+    {
+      "codigo_producto": "MAT-0003",
+      "marca": "Cemex",
+      "codigo": "CEM-11111",
+      "nombre": "Bolsa de Cemento 50kg",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 5990.50
+        }
+      ],
+      "categoria": "cemento"
+    },
+    {
+      "codigo_producto": "SEG-0004",
+      "marca": "3M",
+      "codigo": "MMM-33333",
+      "nombre": "Lentes de Seguridad 3M",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 15990.00
+        }
+      ],
+      "categoria": "lentes_de_seguridad"
+    },
+    {
+      "codigo_producto": "MAN-0005",
+      "marca": "Truper",
+      "codigo": "TRU-54321",
+      "nombre": "Destornillador Phillips",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 7990.00
+        }
+      ],
+      "categoria": "destornilladores"
+    },
+    {
+      "codigo_producto": "MAN-0006",
+      "marca": "Irwin",
+      "codigo": "IRW-9876",
+      "nombre": "Llave Inglesa Ajustable",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 14990.00
+        }
+      ],
+      "categoria": "llaves"
+    },
+    {
+      "codigo_producto": "ELE-0007",
+      "marca": "Makita",
+      "codigo": "MAK-1122",
+      "nombre": "Sierra Circular Profesional",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 120999.00
+        }
+      ],
+      "categoria": "sierras"
+    },
+    {
+      "codigo_producto": "ELE-0008",
+      "marca": "Black & Decker",
+      "codigo": "BLK-4455",
+      "nombre": "Lijadora Orbital 300W",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 45990.00
+        }
+      ],
+      "categoria": "lijadoras"
+    },
+    {
+      "codigo_producto": "MAT-0009",
+      "marca": "Arenera",
+      "codigo": "ARE-9999",
+      "nombre": "Arena Fina 20kg",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 2990.00
+        }
+      ],
+      "categoria": "arena"
+    },
+    {
+      "codigo_producto": "MAT-0010",
+      "marca": "Ladrillera",
+      "codigo": "LAD-1010",
+      "nombre": "Ladrillo Fiscal x10 unidades",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 8990.00
+        }
+      ],
+      "categoria": "ladrillos"
+    },
+    {
+      "codigo_producto": "ACA-0011",
+      "marca": "Suvinil",
+      "codigo": "SUV-2020",
+      "nombre": "Pintura Latex 4L",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 23990.00
+        }
+      ],
+      "categoria": "pinturas"
+    },
+    {
+      "codigo_producto": "SEG-0012",
+      "marca": "SafetyPro",
+      "codigo": "SAF-3030",
+      "nombre": "Casco de Seguridad Industrial",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 12990.00
+        }
+      ],
+      "categoria": "cascos"
+    },
+    {
+      "codigo_producto": "TOR-0013",
+      "marca": "Tornillos Rápidos",
+      "codigo": "TOR-4040",
+      "nombre": "Tornillo Autorroscante x100",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 5990.00
+        }
+      ],
+      "categoria": "tornillos_y_anclajes"
+    },
+    {
+      "codigo_producto": "MED-0014",
+      "marca": "Stanley",
+      "codigo": "STA-5050",
+      "nombre": "Cinta Métrica 5m",
+      "precio": [
+        {
+          "fecha": "2025-05-06T00:00:00.000Z",
+          "valor": 8990.00
+        }
+      ],
+      "categoria": "equipos_de_medicion"
+    }
+  ]
+}
